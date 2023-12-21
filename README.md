@@ -9,7 +9,7 @@
 <p>TGramHooks is an XPosed module to unlock local premium features in multiple Telegram clients for free.</a></p>
 </div>
 
-![icone-telegramme-symbole-logo-orange](https://github.com/Xposed-Modules-Repo/com.simo.tgramhooks.HookInit/assets/64781822/e867133c-dc4f-4164-861a-014d1f4cb91f)
+![icone-telegramme-symbole-logo-orange](https://github.com/Xposed-Modules-Repo/com.simo.tgramhooks.HookInit/assets/64781822/e867133c-dc4f-4164-861a-014d1f4cb91f){width=250 height=250}
 
 ### Features
 - Free premium Telegram 
