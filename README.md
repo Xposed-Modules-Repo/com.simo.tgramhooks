@@ -2,8 +2,10 @@
 <h1>TGɾαɱHσσƙʂ</h1>
 
 ![downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.simo.tgramhooks.HookInit/total)
+![GitHub stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/com.simo.tgramhooks.HookInit)
+![GitHub issues](https://img.shields.io/github/issues/Xposed-Modules-Repo/com.simo.tgramhooks.HookInit)
 [![GitHub release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.simo.tgramhooks.HookInit)](https://github.com/Xposed-Modules-Repo/com.simo.tgramhooks.HookInit/releases)
-[![GitHub Release Date](https://img.shields.io/github/release-date/Xposed-Modules-Repo/com.simo.tgramhooks.HookInit)](https://github.com/Xposed-Modules-Repo/ru.bluecat.yandexmapspatcher/releases)
+[![GitHub Release Date](https://img.shields.io/github/release-date/Xposed-Modules-Repo/com.simo.tgramhooks.HookInit)](https://github.com/Xposed-Modules-Repo/com.simo.tgramhooks/releases)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/TGramHooks)
 
 <p>TGramHooks is an XPosed module to unlock local premium features in multiple Telegram clients for free.</a></p>
