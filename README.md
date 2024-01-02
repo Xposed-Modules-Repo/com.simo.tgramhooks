@@ -33,6 +33,11 @@ TGɾαɱHσσƙʂ is an Xposed module designed to unlock premium features in var
 4. Reboot your device to apply the changes.
 5. Open Telegram and enjoy the unlocked features!
 
+## 📱 Screenshots
+![Screenshot_20240102-184238](https://github.com/Xposed-Modules-Repo/com.simo.tgramhooks/assets/64781822/56f953b9-33d6-426f-9b1b-997e7f63cd93)
+![Screenshot_20240102-184258](https://github.com/Xposed-Modules-Repo/com.simo.tgramhooks/assets/64781822/09fd5ced-3de9-42b9-9895-47e79856cfaa)
+
+
 ## 💬 Support
 
 If you encounter any issues or have questions about TGɾαɱHσσƙʂ, join our [Telegram Channel](https://t.me/TGramHooks) or submit an issue on [GitHub](https://github.com/Xposed-Modules-Repo/com.simo.tgramhooks.HookInit/issues).
