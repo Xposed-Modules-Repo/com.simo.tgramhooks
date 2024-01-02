@@ -1,4 +1,6 @@
 <div align="center">
+  
+![Без имени-1](https://github.com/Xposed-Modules-Repo/com.simo.tgramhooks/assets/64781822/fc984594-d01b-4003-bf9f-7a282cdfb0d5)
 
 # TGɾαɱHσσƙʂ
 
