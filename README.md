@@ -19,7 +19,7 @@ TGɾαɱHσσƙʂ: An Xposed module to unlock premium features in various Telegr
 
 - Unlocks local Telegram premium features for free.
 - Enables screenshot in private chats/groups/channels.
-- Copy and forward from private chats/groups/channels.
+- Copy and save media from private chats/groups/channels.
 - More features soon 😉.
 
 ## 📋 Requirements
