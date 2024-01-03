@@ -11,7 +11,7 @@
 [![GitHub Release Date](https://img.shields.io/github/release-date/Xposed-Modules-Repo/com.simo.tgramhooks.HookInit)](https://github.com/Xposed-Modules-Repo/com.simo.tgramhooks/releases)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/TGramHooks)
 
-TGɾαɱHσσƙʂ: An Xposed module to unlock premium features in various Telegram clients for free.
+TGɾαɱHσσƙʂ: An XPosed module to unlock premium features in listed Telegram clients for free.
 
 </div>
 
