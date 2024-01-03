@@ -28,14 +28,6 @@ TGɾαɱHσσƙʂ: An XPosed module to unlock premium features in multiple Teleg
 - Installed Telegram client.
 - For non-root users u can use VphoneGaga/VMos virtual machines with root/magisk options.
 
-## ⬇️ Installation
-
-1. Ensure you have a rooted Android device with Xposed Framework installed.
-2. Download the latest TGɾαɱHσσƙʂ release from [GitHub Releases](https://github.com/Xposed-Modules-Repo/com.simo.tgramhooks.HookInit/releases).
-3. Install the module and activate it within the Xposed manager app.
-4. Reboot your device to apply the changes.
-5. Open Telegram and enjoy the unlocked features!
-
 ## 📱 Screenshots
 <p float="left">
   <img src="https://github.com/Xposed-Modules-Repo/com.simo.tgramhooks/assets/64781822/56f953b9-33d6-426f-9b1b-997e7f63cd93" width="45%" />
