@@ -56,5 +56,5 @@ TGɾαɱHσσƙʂ is released under the MIT License. See the `LICENSE` file for 
 
 ---
 
-🛠️ Made with fun by the Simo 🇲🇦
+🛠️ Made with fun by Simo 🇲🇦
 
