@@ -33,10 +33,11 @@ TGɾαɱHσσƙʂ: An XPosed module to unlock premium features in multiple Teleg
 - For non-root users u can use VphoneGaga/VMos virtual machines with root/magisk options.
 
 ## 📱 Screenshots
-<p float="left">
-  <img src="https://github.com/Xposed-Modules-Repo/com.simo.tgramhooks/assets/64781822/56f953b9-33d6-426f-9b1b-997e7f63cd93" width="45%" />
-  <img src="https://github.com/Xposed-Modules-Repo/com.simo.tgramhooks/assets/64781822/09fd5ced-3de9-42b9-9895-47e79856cfaa" width="45%" /> 
+<p float="Center">
+  <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/com.simo.tgramhooks/main/1.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/com.simo.tgramhooks/main/2.png" width="45%" /> 
 </p>
+
 
 ## 💬 Support
 
